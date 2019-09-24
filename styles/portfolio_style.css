@@ -1,0 +1,29 @@
+section {
+  margin-top: 10%;
+}
+
+.body_link img {
+  width: 20%;
+}
+
+.body_link a {
+  background-color: #d9d9d9;
+}
+
+.body_link a:hover {
+  color: #bf4aa8;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.body_link hr {
+  border: 2px dotted #bf4aa8;
+  border-radius: 10px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  width: 60%;
+  }

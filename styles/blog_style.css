@@ -1,0 +1,45 @@
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 5%;
+}
+.blog_stories {
+  text-align: left;
+}
+.resources {
+  min-width: 35%;
+}
+
+.blog_post{
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+li {
+  text-align: left;
+  margin-left: 20%;
+}
+
+main a:hover {
+  color:#bf4aa8;
+}
+
+p {
+  width: 50%;
+  
+}
+
+.outside_link a {
+  background-color: #bf4aa8;
+}
+
+.outside_link a:hover {
+  color:black;
+}
+
+.outside_link {
+  padding: 5px;
+  border-radius: 10px;
+  margin-left: 10%;
+}
